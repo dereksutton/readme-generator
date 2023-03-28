@@ -8,11 +8,11 @@
 This application will auto-generate professional README files. Built with Node.js and Inquirer (an NPM package).
 
 ## Table of Contents
-*[Installation](#Installation)
-*[Test](#Test)
-*[Usage](#Usage)
-*[Contributors](#Contributors)
-*[Contact](#Contact)
+* [Installation](#Installation)
+* [Test](#Test)
+* [Usage](#Usage)
+* [Contributors](#Contributors)
+* [Contact](#Contact)
 
 ## Screenshot
 ![alt-text](N/A)

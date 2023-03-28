@@ -19,42 +19,42 @@ const renderLicenseLink = (license) => {
 // function to generate markdown for README
 
 const generateMarkdown = (data) => {
-  return `
-    # ${data.title}
+    return `
+# ${data.title}
 
-    ${renderLicenseBadge(data.license)}
-    ${renderLicenseLink(data.license)}
+${renderLicenseBadge(data.license)}
+${renderLicenseLink(data.license)}
 
-    ## Description
-    ${data.description}
+## Description
+${data.description}
 
-    ## Table of Contents
-    *[Installation](#Installation)
-    *[Test](#Test)
-    *[Usage](#Usage)
-    *[Contributors](#Contributors)
-    *[Contact](#Contact)
+## Table of Contents
+* [Installation](#Installation)
+* [Test](#Test)
+* [Usage](#Usage)
+* [Contributors](#Contributors)
+* [Contact](#Contact)
 
-    ## Screenshot
-    ![alt-text](${data.screenshot})
+## Screenshot
+![alt-text](${data.screenshot})
 
-    ## Deployed URL
-    ${data.url}
+## Deployed URL
+${data.url}
 
-    ## Installation
-    ${data.installation}
+## Installation
+${data.installation}
 
-    ## Test
-    ${data.test}
+## Test
+${data.test}
 
-    ## Usage
-    ${data.usage}
+## Usage
+${data.usage}
 
-    ## Contributors
-    ${data.contributing}
+## Contributors
+${data.contributing}
 
-    ## Contact
-    Built by [github/${data.github}](https://github.com/${data.github}). You can email me [here](mailto:${data.email}).
+## Contact
+Built by [github/${data.github}](https://github.com/${data.github}). You can email me [here](mailto:${data.email}).
 `;
 }
 
