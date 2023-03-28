@@ -30,13 +30,13 @@ const questions = [
     type: 'input',
     name: 'installation',
     message: 'What command should be run to install dependencies?',
-    default: 'npm i',
+    default: 'npm install inquirer@8.2.4',
   },
   {
     type: 'input',
     name: 'test',
-    message: 'What command should be run to run tests?',
-    default: 'npm test',
+    message: 'What is the terminal command to run the program?',
+    default: 'node index.js',
   },
   {
     type: 'input',
