@@ -19,8 +19,7 @@ const renderLicenseLink = (license) => {
 // function to generate markdown for README
 
 const generateMarkdown = (data) => {
-    return `
-# ${data.title}
+    return `# ${data.title}
 
 ${renderLicenseBadge(data.license)}
 ${renderLicenseLink(data.license)}
