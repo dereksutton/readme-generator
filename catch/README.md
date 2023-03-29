@@ -26,10 +26,10 @@ npm install inquirer@8.2.4
 node index.js
 
 ## Usage
-To use this repo - clone to your local drive, CD into the directory, then run Node.js in the terminal.
+Clone the repo to your local drive, CD into the directory, then run 'node index.js' in your terminal.
 
 ## Contributors
-To contribute to this open source project - clone the repo locally, create a new branch, then submit a pull request in GitHub.
+Starter code provided by GT Coding Bootcamp. Functionality completed by Derek Sutton.
 
 ## Contact
 Built by [github/dereksutton](https://github.com/dereksutton). You can email me [here](mailto:dereksutton86@gmail.com).
