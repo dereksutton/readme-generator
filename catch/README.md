@@ -15,7 +15,7 @@ This application will auto-generate professional README files. Built with Node.j
 * [Contact](#Contact)
 
 ## Walkthrough
-![Video Walkthrough Link](https://drive.google.com/file/d/1ipB-afRFmaqk2aBe19TR0y5G6k7Qt0EV/view?usp=sharing))
+[Video Walkthrough Link](https://drive.google.com/file/d/1ipB-afRFmaqk2aBe19TR0y5G6k7Qt0EV/view?usp=sharing)
 
 ## Deployed URL
 N/A
